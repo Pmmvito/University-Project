@@ -2,10 +2,4 @@
 University activities projects
 
 
-<object width="425" height="350">
-  <param name="movie" value="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg](https://www.youtube.com/watch?v=ma1i8-QCFMc" />
-  <param name="wmode" value="transparent" />
-  <embed src="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
+[![](https://i9.ytimg.com/vi/ma1i8-QCFMc/mqdefault.jpg?sqp=CPT-2KcG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEggXChlMA8=&rs=AOn4CLC75xYLWCQnd2U_H4P8uY-2YcLeVg)](https://youtu.be/ma1i8-QCFMc)
